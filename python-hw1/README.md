@@ -11,7 +11,9 @@ Results can be confirmed via https://epsg.io/transform#s_srs=4326&t_srs=3301&x=0
 
 Program can be run on any computer which has python3 installed.
 Go to your terminal of choice and type:
-    * python3 advanced-python-hw1.py
+```
+python3 advanced-python-hw1.py
+```
 
 GUI should be displayed and you can enter coordinates in their respective input boxes.
 Then, click on the respective button to do the conversion.
